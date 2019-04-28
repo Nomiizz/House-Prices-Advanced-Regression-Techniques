@@ -1,0 +1,3 @@
+# House Prices: Advanced Regression Techniques
+
+Notebook for the Kaggle Competition: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview. With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home. My solution uses an ensemble of multiple ML models and acheives an RMSE of '0.11586', ranked in the top 14% on the leaderboard. To construct the solution I took inspiration from several public kernels on the competition page, that offer useful insights for the solution.
